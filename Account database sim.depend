@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634167482 source:c:\users\joczika\desktop\programing\codeblocks\code blocks\projekat_gas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<ctype.h>
+	<conio.h>
+	<dos.h>
+
